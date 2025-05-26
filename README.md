@@ -4,7 +4,7 @@
 By creating this simple responsive landing page using HTML and CSS, I learned several important web development concepts and skills:
 
 ✅ 1. How to Structure a Webpage with HTML
-I learned how to create a basic HTML5 document, organize content using semantic tags like (<header>, <section>,and <footer>) and link an external CSS file to style the page.
+I learned how to create a basic HTML5 document, organize content using semantic tags like header,section,and footer and link an external CSS file to style the page.
 
 ✅ 2. How to Style a Page with CSS
 I practiced using CSS to control the appearance of the webpage — including setting colors, fonts, spacing, and layout. I also applied modern styling techniques like gradients, hover effects, and rounded buttons.
